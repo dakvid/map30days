@@ -1,7 +1,23 @@
+---
+title: "30 Day Map Challenge"
+author: "David Friggens"
+date: "November 2019"
+output:
+  html_document:
+    self_contained: false
+    mathjax: null
+    theme: journal
+    toc: true
+    toc_float: true
+    fig_caption: false
+---
+
+## Introduction
+
 My attempts at #30DayMapChallenge, issued by
 [Topi Tjukanov](https://twitter.com/tjukanov/status/1187713840550744066).
 
-![Challenge themes](docs/challenge.jpg)
+![Challenge themes](challenge.jpg)
 
 To see what other people are doing, check out the amazing curation by
 [Aurelien Chaumet](https://public.tableau.com/profile/aurelien.chaumet#!/vizhome/30daymapchallenge/30DayMapChallenge-Week1?publish=yes).
@@ -14,11 +30,11 @@ Animation of Carterton District small area boundaries:
 has introduced a new geographical classification for
 New Zealand.
 
-[[R code](docs/14_boundaries_carterton.R)]
+[[R code](14_boundaries_carterton.R)]
 (I haven't copied the data files here, as they're large, but
 they were all downloaded from [Stats NZ](stats.govt.nz))
 
-![Carterton District map](docs/14_boundaries_carterton.gif)
+![Carterton District map](14_boundaries_carterton.gif)
 
 
 ## 17. Zones
@@ -29,7 +45,7 @@ another 25% in Inkscape, and the remainder traded for sleep.
 But I learned things, which is the whole point of this
 exercise.
 
-![NZEEZ](docs/17_zones_nzeez.png)
+![New Zealand Exclusive Economic Zone map](17_zones_nzeez.png)
 
 
 ## 18. Globe
@@ -39,14 +55,9 @@ their controlling countries. Not mentioning Norway's
 Peter I Island nor the conflict between Chile, Argentina
 and the UK.
 
-[[R code](docs/18_globe_antarctica.R)]
+[[R code](18_globe_antarctica.R)]
 Quickly done in R with the threejs package after getting
 90% there in QGIS and losing it all (unsaved!) in a crash.
 
-Here are some screenshots, but see the
-[proper page](https://david.frigge.nz/map30days/) for the
-interactive version.
-
-![lines going into Antarctica](docs/18_globe_antarctica1.png)
-![lines going to Antarctica from Europe](docs/18_globe_antarctica2.png)
+<iframe src="18_globe_antarctica.html" width="100%" height="600px"></iframe>
 
