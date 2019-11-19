@@ -50,3 +50,14 @@ interactive version.
 ![lines going into Antarctica](docs/18_globe_antarctica1.png)
 ![lines going to Antarctica from Europe](docs/18_globe_antarctica2.png)
 
+
+## 19. Urban
+
+Auckland urban area has the same population as the next 12 biggest New Zealand
+cities. (Or at least it did before recently revised official figures.)
+A few months ago I made this [map for work](http://www.infometrics.co.nz/chart-month-auckland-big/)
+with R, here I've remade it with QGIS.
+((PDF version too)[docs/19_urban_auckland.pdf])
+
+![Map of Auckland](docs/19_urban_auckland.png)
+
