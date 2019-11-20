@@ -61,3 +61,15 @@ with R, here I've remade it with QGIS.
 
 ![Map of Auckland](docs/19_urban_auckland.png)
 
+
+
+## 20. Rural
+
+Why not map ... no rural areas? I imagined New Zealand's urban areas as
+an archipelago. Starting to feel more familiar with QGIS.
+((PDF version too)[docs/20_rural_archipelago.pdf])
+
+![Map of NZ urban areas as islands](docs/20_rural_archipelago.png)
+
+
+

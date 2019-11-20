@@ -68,9 +68,20 @@ Auckland urban area has the same population as the next 12 biggest New Zealand
 cities. (Or at least it did before recently revised official figures.)
 A few months ago I made this [map for work](http://www.infometrics.co.nz/chart-month-auckland-big/)
 with R, here I've remade it with QGIS.
-((PDF version too)[19_urban_auckland.pdf])
+([PDF version too](19_urban_auckland.pdf))
 
 ![Map of Auckland](19_urban_auckland.png)
+
+
+
+## 20. Rural
+
+Why not map ... no rural areas? I imagined New Zealand's urban areas as
+an archipelago. Starting to feel more familiar with QGIS.
+([PDF version too](20_rural_archipelago.pdf))
+
+![Map of NZ urban areas as islands](20_rural_archipelago.png)
+
 
 
 
