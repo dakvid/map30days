@@ -22,6 +22,20 @@ My attempts at #30DayMapChallenge, issued by
 To see what other people are doing, check out the amazing curation by
 [Aurelien Chaumet](https://public.tableau.com/profile/aurelien.chaumet#!/vizhome/30daymapchallenge/30DayMapChallenge-Week1?publish=yes).
 
+I started halfway through, with the intention of where time and energy
+allowed.
+
+
+## 8. Green
+
+Proportion of New Zealanders who compost green waste, by region.
+Initially intended for Day 21, Environment.
+
+Data prepared in R ([code](08_green_data.R)) and map created with QGIS.
+
+![map of New Zealand composters by region](08_green_compost.png)
+
+
 
 ## 14. Boundaries
 

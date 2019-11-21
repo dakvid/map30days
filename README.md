@@ -6,6 +6,20 @@ My attempts at #30DayMapChallenge, issued by
 To see what other people are doing, check out the amazing curation by
 [Aurelien Chaumet](https://public.tableau.com/profile/aurelien.chaumet#!/vizhome/30daymapchallenge/30DayMapChallenge-Week1?publish=yes).
 
+I started halfway through, with the intention of where time and energy
+allowed.
+
+
+## 8. Green
+
+Proportion of New Zealanders who compost green waste, by region.
+Initially intended for Day 21, Environment.
+
+Data prepared in R ([code](docs/08_green_data.R)) and map created with QGIS.
+
+![map of New Zealand composters by region](docs/08_green_compost.png)
+
+
 
 ## 14. Boundaries
 
@@ -57,7 +71,7 @@ Auckland urban area has the same population as the next 12 biggest New Zealand
 cities. (Or at least it did before recently revised official figures.)
 A few months ago I made this [map for work](http://www.infometrics.co.nz/chart-month-auckland-big/)
 with R, here I've remade it with QGIS.
-((PDF version too)[docs/19_urban_auckland.pdf])
+([PDF version too](docs/19_urban_auckland.pdf))
 
 ![Map of Auckland](docs/19_urban_auckland.png)
 
@@ -67,7 +81,7 @@ with R, here I've remade it with QGIS.
 
 Why not map ... no rural areas? I imagined New Zealand's urban areas as
 an archipelago. Starting to feel more familiar with QGIS.
-((PDF version too)[docs/20_rural_archipelago.pdf])
+([PDF version too])docs/20_rural_archipelago.pdf))
 
 ![Map of NZ urban areas as islands](docs/20_rural_archipelago.png)
 
