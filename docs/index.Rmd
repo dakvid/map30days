@@ -98,6 +98,32 @@ an archipelago. Starting to feel more familiar with QGIS.
 
 
 
+## 23. Population
+
+Inspired by the beautiful dot density maps by [Chris McDowall](https://github.com/fogonwater/we-are-here)
+in the amazing book [We Are Here](https://www.masseypress.ac.nz/books/we-are-here/)
+and that [Jack Zhao](https://smallmultiples.com.au/about/)
+presented recently at FOSS4G SOTM Oceania (video to come),
+here's my first attempt. We see all the kids in the Kāpiti Coast (greater
+Paraparaumu and Waikanae) and all the retired people.
+As Jack notes, the QGIS "random points in polygon" function won't let you
+dot two different categories so I made them separate maps, as opposed to plotting
+in high density (like Chris), lowering opacity (didn't seem to help much), or
+using an unmaintained Python library (like Jack).
+
+![dot density maps of Kāpiti Coast](23_population_kapitidots.png)
+
+
+## 24. Statistics
+
+Being pressed for time I tried a variation of the previous one.
+"Millennials vs Boomers" was actually my first thought on this idea, and
+Queenstown has one of the most noticable differences in the country between
+the generations.
+The population data is only available in 5 year groups, so I can't exactly match
+the generation "definitions" but it's close enough.
+
+![dot density maps of Queenstown](24_statistics_qtowndots.png)
 
 
 <hr />
