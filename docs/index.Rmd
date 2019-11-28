@@ -22,8 +22,21 @@ My attempts at #30DayMapChallenge, issued by
 To see what other people are doing, check out the amazing curation by
 [Aurelien Chaumet](https://public.tableau.com/profile/aurelien.chaumet#!/vizhome/30daymapchallenge/30DayMapChallenge-Week1?publish=yes).
 
-I started halfway through, with the intention of where time and energy
-allowed.
+I started halfway through, with the intention of doing as much of the
+whole month, where time and energy allowed.
+
+
+## 1. Points
+
+Birthplaces of New Zealand Prime Ministers, 1906-2017.
+Note that some moved at a yonug age and grew up in a quite
+different place.
+
+Data from [Wikipedia](http://en.wikipedia.org/wiki/List_of_New_Zealand_Prime_Ministers)
+and map made with QGIS, inspired by a similar
+[map for Israel](https://www.reddit.com/r/MapPorn/comments/e1g0xk/birthplaces_of_prime_ministers_of_israel/).
+
+![map of NZ prime ministers birthplaces](01_points_nzpm.png)
 
 
 ## 8. Green
